@@ -1,15 +1,16 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body{
     background-color: darkgrey;
 }
 h1{
     text-align: center;
-    margin: 10px 0 10px;
     font-size: 50px;
     margin-top: 20vh;
+    margin-bottom: 10px;
 }
 .flex-container{
     display: flex;
